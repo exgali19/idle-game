@@ -1,4 +1,4 @@
-var score = 1; // Create a variable to store the score in
+var score = 0; // Create a variable to store the score in
 
 var title = new Title('The Forest'); // Create a title element
 var button = new Button('Gather Wood', btnPress);   // Create a button element
